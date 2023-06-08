@@ -1,0 +1,19 @@
+{
+  "name": "taro-sortable-list",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "description": "A sortable list component for TaroJS - React",
+  "scripts": {},
+  "url": "https://github.com/LIU9293/taro-sortable-list.git",
+  "author": "Chris Liu (liukai9293@qq.com)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.debounce": "^4.0.8"
+  },
+  "peerDependencies": {
+    "@tarojs/components": "^3",
+    "@tarojs/taro": "^3",
+    "react": "*"
+  },
+  "devDependencies": {}
+}
