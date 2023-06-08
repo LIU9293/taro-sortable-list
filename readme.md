@@ -1,5 +1,9 @@
 ## Taro Sortable List
 
+### Demo
+
+![DEMO](https://github.com/LIU9293/taro-sortable-list/blob/master/demo.gif?raw=true)
+
 ### Install
 
 ```
